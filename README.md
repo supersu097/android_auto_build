@@ -1,6 +1,7 @@
 ## android_auto_build
 init some action before real android rom build ,  
-then auto generate Incremental ota rom  
+then U can choose to generate Incremental ota rom 
+manually base on the last build...
 
 ```
 USAGE:
